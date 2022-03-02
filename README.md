@@ -6,8 +6,10 @@
 
 - 🌱 I’m currently learning ...
 
-- front end html/css vanila vue.js 
-- back end spring framework, spring boot, java
+front end html/css vanila vue.js 
+back end spring framework, spring boot, java
+
+algorithm, design pattern
 
 
 - 💞️ I’m looking to collaborate on ...
