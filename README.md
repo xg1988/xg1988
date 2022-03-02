@@ -4,8 +4,8 @@
 - front end html/css vanila vue.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- http://itstupid.tistory.com
-- http://scflow.tistory.com
+- https://4freedev.tistory.com/ 개발관련 
+- https://itstupid.tistory.com 개발 내용 적용 (배치 등)
 
 <!---
 xg1988/xg1988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
