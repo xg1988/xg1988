@@ -33,14 +33,14 @@
  - public data portal connection
  - etc api connection 
 
-# bbs related
+## bbs related
 - jobs_jquery_bbs jquery ajax bbs
 - jobs_springmvc_mybatis_bbs  Spring MVC Mybatis	(jstl)
 - jobs_springboot_mybatis_bbs Spring boot Mybatis (jstl)
 - jobs_springboot_jpa_bbs Spring boot jpa (thymeleaf)
 - jobs_jsp_bbs jsp bbs model1 jsp bbs
 
-# frontend
+## frontend
 - webpack-template-basic vuejs, webpack template
 
 # private repositoy list
