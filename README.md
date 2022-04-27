@@ -18,12 +18,10 @@
 -algorithm, design pattern
 
 
-- 💞️ I’m looking to collaborate on ...
-
 
 - 📫 How to reach me ...
-## https://4freedev.tistory.com/ 개발관련 
-## https://itstupid.tistory.com 개발 내용 적용 (배치 등)
+ https://4freedev.tistory.com/ 개발관련 
+ https://itstupid.tistory.com 개발 내용 적용 (배치 등)
 
 
 # public repository list
