@@ -13,8 +13,8 @@
 - bootstrap, tailwind css
 
 ## back end 
-<img src="https://camo.githubusercontent.com/1854be13b1b643c7331b810eb9ebf7360111ec54609e98c80403ffa99ccd5652/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d537072696e67266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=SpringBoot&amp;logoColor=white" style="max-width: 100%;">
 
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"  style="max-width: 100%;">
 - java
 - jsp/servlet
 
