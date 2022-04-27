@@ -19,14 +19,14 @@
 
 
 
-- 📫 How to reach me ...
+## 📫 How to reach me ...
  https://4freedev.tistory.com/ 개발관련 
  https://itstupid.tistory.com 개발 내용 적용 (배치 등)
 
 
 # public repository list
 
-- jobs_springboot_api
+### jobs_springboot_api
  - springboot jpa bbs api
  - public data portal connection
  - etc api connection 
