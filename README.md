@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 public repositoy list
 
 jobs_springboot_api
- - springboo jpa bbs api
+ - springboot jpa bbs api
  - public data portal connection
  - etc api connection 
 
