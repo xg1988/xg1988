@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @xg1988
+# 👋 Hi, I’m @xg1988 Jobs jo sung uk
 
 - 🌱 I’m currently learning ...
 
@@ -26,7 +26,7 @@
 ## https://itstupid.tistory.com 개발 내용 적용 (배치 등)
 
 
-# public repositoy list
+# public repository list
 
 - jobs_springboot_api
  - springboot jpa bbs api
