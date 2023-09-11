@@ -7,46 +7,22 @@
 # 🌱 I’m currently learning ...
 
 ## front end 
-- html/css 
-- vanila 
-- vue.js, react.js
-- bootstrap, tailwind css
+- ES6
+- vue.js /angular.js
 
 ## back end 
+- Spirng MVC Framework, SpringBoot, Spring Batch, Spring Data, Spring Security
 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"  style="max-width: 100%;">
-- java
-- jsp/servlet
-
-## etc
--algorithm, design pattern
 
 
 
 ## 📫 How to reach me ...
- https://4freedev.tistory.com/ 개발관련 
- https://itstupid.tistory.com 개발 내용 적용 (배치 등)
+ https://4freedev.tistory.com/ 개발관련 <br/>
+ https://itstupid.tistory.com/ 개발 내용 적용 (배치 등)
 
-
-# public repository list
-
-### jobs_springboot_api
- - springboot jpa bbs api
- - public data portal connection
- - etc api connection 
-
-
-## frontend
-- webpack-template-basic vuejs, webpack template
-
-# private repositoy list
-
-## sb-service01
-- spring boot, vue js
-- [DEV] http://sb-service01.herokuapp.com/
-- [PROD] http://jobsjo88.cafe24.com/svc
-
-## sb-admin01
-- spring boot, thymeleaf
-- [DEV] http://sb-admin01.herokuapp.com/
-- [PROD] http://jobsjo88.cafe24.com/adm
+## 개인 서버 구축
+jenkins, redis, kafka, mysql .. 
+<br/>
+[DEV] http://54.180.149.10/ aws ec2 - nginx - tomcat 개발서버
+<br/>
+[PROD] http://xg1988py.cafe24.com nginx- tomcat 운영서버
