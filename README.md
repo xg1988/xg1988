@@ -4,17 +4,6 @@
 ![xg1988's github stats](https://github-readme-stats.vercel.app/api?username=xg1988&show_icons=true)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxg1988&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-# 🌱 I’m currently learning ...
-
-## front end 
-- ES6
-- vue.js /angular.js
-
-## back end 
-- Spirng MVC Framework, SpringBoot, Spring Batch, Spring Data, Spring Security
-
-
-
 
 ## 📫 How to reach me ...
  https://4freedev.tistory.com/ 개발관련 <br/>
@@ -26,3 +15,13 @@ jenkins, redis, kafka, mysql ..
 [DEV] http://54.180.149.10/ aws ec2 - nginx - tomcat 개발서버
 <br/>
 [PROD] http://xg1988py.cafe24.com nginx- tomcat 운영서버
+
+# 🌱 I’m currently learning ...
+
+## front end 
+- ES6
+- vue.js /angular.js
+
+## back end 
+- Spirng MVC Framework, SpringBoot, Spring Batch, Spring Data, Spring Security
+
