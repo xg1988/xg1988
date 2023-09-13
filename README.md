@@ -9,7 +9,7 @@
  https://4freedev.tistory.com/ 개발관련 <br/>
  https://itstupid.tistory.com/ 개발 내용 적용 (배치 등)
 
-## 개인 서버 구축
+## personal dev prod server
 jenkins, redis, kafka, mysql .. 
 <br/>
 [DEV] http://54.180.149.10/ aws ec2 - nginx - tomcat 개발서버
