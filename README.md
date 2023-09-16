@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @xg1988 Jobs jo sung uk
+# 👋 Hi, I’m @xg1988 Jobs SungUk Cho
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jobs%20Jo%20sung%20uk&fontSize=60)
 
 ![xg1988's github stats](https://github-readme-stats.vercel.app/api?username=xg1988&show_icons=true)
